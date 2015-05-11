@@ -1,5 +1,5 @@
 # PBImagePicker
-It's highly inspired by Instagram Image Picker. It's built on top of [PBImageKit] 
+It's highly inspired by Instagram Image Picker. It's built on top of [PBImageKit](https://github.com/andyqee/PBImageKit) 
 The main entry viewController is ```PBSelectViewController```. It has two ChildViewControllers 
 ```
 PBAssetAlblumPikcerController
