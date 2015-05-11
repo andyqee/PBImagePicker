@@ -8,7 +8,7 @@ PBAssetPickerController
 ```
 It provides:
 - Assets picker automactically reload new data, when ever the assets were changed.
-- 
+
 
 ### Demo
 
