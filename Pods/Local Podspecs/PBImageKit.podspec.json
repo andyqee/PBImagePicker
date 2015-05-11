@@ -1,0 +1,25 @@
+{
+  "name": "PBImageKit",
+  "version": "0.9",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://github.com/andyqee/PBImageKit",
+  "authors": {
+    "Ethon Qee": "vitasone@gmail.com"
+  },
+  "summary": "Async Image Asset fetcher for iOS.",
+  "source": {
+    "git": "https://github.com/andyqee/PBImageKit.git"
+  },
+  "source_files": "PBImageKit/**/*",
+  "requires_arc": true,
+  "social_media_url": "https://twitter.com/vitasone",
+  "xcconfig": {
+    "CLANG_CXX_LANGUAGE_STANDARD": "c++11",
+    "CLANG_CXX_LIBRARY": "libc++"
+  },
+  "platforms": {
+    "ios": "6.0"
+  }
+}

@@ -1,0 +1,19 @@
+PODS:
+  - PBImageKit (0.9)
+
+DEPENDENCIES:
+  - PBImageKit (from `https://github.com/andyqee/PBImageKit.git`)
+
+EXTERNAL SOURCES:
+  PBImageKit:
+    :git: https://github.com/andyqee/PBImageKit.git
+
+CHECKOUT OPTIONS:
+  PBImageKit:
+    :commit: f74b6955032a29054424751a2c57bb196911fd15
+    :git: https://github.com/andyqee/PBImageKit.git
+
+SPEC CHECKSUMS:
+  PBImageKit: 3c4b58d70837a914f7ccafe0361750b3784bab4e
+
+COCOAPODS: 0.36.3
